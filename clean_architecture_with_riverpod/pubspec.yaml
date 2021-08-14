@@ -1,4 +1,4 @@
-name: clean_architecture_with_riverpod
+name: test_application
 description: Simple application for downloading and saving data from 'jsonplaceholder.typicode.com' using clean architecture and riverpod.
 
 # The following line prevents the package from being accidentally published to
