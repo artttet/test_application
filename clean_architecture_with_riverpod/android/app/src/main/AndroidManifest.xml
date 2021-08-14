@@ -4,7 +4,7 @@
    <uses-permission android:name="android.permission.INTERNET"/>
 
    <application
-        android:label="test_application"
+        android:label="clean_arcitecture_with_riverpod"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
